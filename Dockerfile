@@ -1,9 +1,9 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="ualberta-cmput-503-lab-4"
+ARG DESCRIPTION="Getting a real-life Duckiebot to move around a track"
+ARG MAINTAINER="Mike Ogezi (mikeogezi@ualberta.ca)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
-ARG ICON="cube"
+ARG ICON="rocket"
 
 # ==================================================>
 # ==> Do not change the code below this line

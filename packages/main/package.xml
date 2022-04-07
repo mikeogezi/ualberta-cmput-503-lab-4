@@ -1,0 +1,10 @@
+<package>
+  <name>lab_4</name>
+  <version>0.1.0</version>
+  <description>
+  Navigating a race track with a real-life Duckiebot
+  </description>
+  <maintainer email="mikeogezi@ualberta.ca">YOUR_FULL_NAME</maintainer>
+  <license>None</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
